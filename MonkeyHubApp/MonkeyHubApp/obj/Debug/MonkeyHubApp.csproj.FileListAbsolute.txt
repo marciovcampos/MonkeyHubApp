@@ -13,5 +13,5 @@ C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.dll
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.pdb
-C:\Users\Márcio\Documents\Visual Studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.dll.mdb
-C:\Users\Márcio\Documents\Visual Studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll.mdb

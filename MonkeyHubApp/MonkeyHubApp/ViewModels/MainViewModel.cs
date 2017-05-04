@@ -1,40 +1,53 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Diagnostics;
 using System.Threading.Tasks;
-using System.ComponentModel;
-using System.Runtime.CompilerServices;
+using Xamarin.Forms;
 
 namespace MonkeyHubApp.ViewModels
 {
     class MainViewModel: BaseViewModel
-    {        
-        private string _descricao;
+    {
+        private String _searchTerm;
 
-        public string Descricao
+        public String SearchTerm
         {
-            get { return _descricao; }
-            set { SetProperty(ref _descricao, value); }
+            get { return _searchTerm; }
+            set {
+                if(SetProperty( ref _searchTerm, value))
+                {
+                    SearchCommand.ChangeCanExecute();
+                }                        
+            }
         }
+
+        public Command SearchCommand { get; }
 
         public MainViewModel()
         {
-            Descricao = "Olá mundo! Eu Estou Aqui!";
-            Task.Delay(3000).ContinueWith(async t =>
+            SearchCommand = new Command(ExecuteSearchCommand, CanExecuteSearchCommand);
+        }
+
+        async void ExecuteSearchCommand()
+        {
+            await Task.Delay(2000);
+
+            bool resposta = await App.Current.MainPage.DisplayAlert("MonkeyHubApp", $"Você pesquisou por '{SearchTerm}'.","Sim", "Não");
+
+            if (resposta)
             {
-                for(int i = 0; i<10; i++)
-                {
-                    await Task.Delay(1000);
-                    Descricao = $"Meu Texto Mudou{i}";
-                }              
-                                 
-            });
-        }   
+                await App.Current.MainPage.DisplayAlert("MonkeyHubApp", $"Obrigado", "OK");
+            }
+            else
+            {
+                await App.Current.MainPage.DisplayAlert("MonkeyHubApp", $"Que pena!", "OK");
+            }
 
+        }
         
-
-       
+        bool CanExecuteSearchCommand()
+        {
+            return string.IsNullOrWhiteSpace(SearchTerm) == false;
+        }
 
     }
 }
