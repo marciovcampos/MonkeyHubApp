@@ -70,5 +70,15 @@ C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.dll.config
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.dll.config
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\MonkeyHubApp.Android.dll.mdb
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.dll.mdb
