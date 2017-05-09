@@ -16,5 +16,22 @@ namespace MonkeyHubApp
             InitializeComponent();
             BindingContext = new MainViewModel();
         }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Navigation?.PushAsync(new MainPage());
+        }
+
+        private void ButtonModal_Clicked(object sender, EventArgs e)
+        {
+            Navigation?.PushModalAsync(new NavigationPage(new MainPage()));
+        }               
+
+        private void ButtonModalVoltar_Clicked(object sender, EventArgs e)
+        {
+            Navigation?.PopModalAsync();
+        }
+
+
     }
 }
