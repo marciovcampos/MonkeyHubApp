@@ -3,21 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MonkeyHubApp.ViewModels;
-using Xamarin.Forms;
 
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace MonkeyHubApp
-
 {
-    public partial class MainPage : ContentPage
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class AboutPage : ContentPage
     {
-        public MainPage()
+        public AboutPage()
         {
             InitializeComponent();
-            BindingContext = new MainViewModel();
         }
-                
-
     }
 }

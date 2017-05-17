@@ -23,5 +23,8 @@ C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.csproj.App.config
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.AboutPage.xaml.g.cs
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.dll.mdb
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll.mdb
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.dll.mdb
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll.mdb
