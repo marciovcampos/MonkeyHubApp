@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Version.Plugin;
 
 namespace MonkeyHubApp.ViewModels
 {
-    public class AboutViewModel: BaseViewModel
+    public class AboutViewModel : BaseViewModel
     {
+        public string Versao => CrossVersion.Current.Version;
     }
 }

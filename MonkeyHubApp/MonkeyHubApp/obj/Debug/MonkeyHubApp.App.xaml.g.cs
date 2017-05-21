@@ -11,7 +11,7 @@
 namespace MonkeyHubApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\márcio\\documents\\visual studio 2017\\Projects\\MonkeyHubApp\\MonkeyHubApp\\M" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Márcio\\documents\\visual studio 2017\\Projects\\MonkeyHubApp\\MonkeyHubApp\\M" +
         "onkeyHubApp\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         

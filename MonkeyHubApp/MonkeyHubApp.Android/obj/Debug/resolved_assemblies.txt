@@ -45,6 +45,8 @@ C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Version.Plugin.dll
+C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Version.Plugin.Abstractions.dll
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\System.Xml.XDocument.dll
 C:\Users\Márcio\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll

@@ -13,7 +13,7 @@ namespace MonkeyHubApp {
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Márcio\\documents\\visual studio 2017\\Projects\\MonkeyHubApp\\MonkeyHubApp\\M" +
         "onkeyHubApp\\AboutPage.xaml")]
-    public partial class AboutPage : global::Xamarin.Forms.ContentPage {
+    public partial class AboutPage : global::MonkeyHubApp.BasePage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
